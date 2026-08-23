@@ -1,17 +1,30 @@
 # Développement d'une démarche multicritère et multi-échelle pour l'évaluation et la hiérarchisation des liaisons cyclables intercommunales - étude de cas en Alsace
 
-Dans cette page, vous trouverez une série de la méthodologie ainsi que les résultats cartograohiques de cette études
+Dans cette page, vous trouverez une série de la méthodologie ainsi que les résultats de cette études
+
 ---
 
-## A. Résultats : Cartes interactives
+## A. Résultats 
 
-🔍 Comment utiliser ?
-▷ [Voir l'explication](/autres/howtouse.png)
+---
 
-### A.1. Strasbourg et ses proches environs  
-Modes : à pied / à vélo / en tram / en voiture  
-▷ [Voir la carte](3_carte_echelle_1_sorities_finales/carte_finale_centre.html)
+##  B. Méthodologie
 
-### A.2. Strasbourg et son réseau de tram  
-Modes : à pied / à vélo / en tram / en voiture  
-▷ [Voir la carte](3_carte_echelle_2_sorities_finales/carte_finale_réseaux.html)
+---
+
+##  C. Codes Python
+
+▷ https://github.com/misakiuo/hierarchisation_liaisons_cyclables/
+
+---
+
+##  D. Mémoire & Présentation
+
+▷ [Télécharger](/mémoire/)
+
+---
+Mise à jour :  le 24 août 2026
+
+Par : Misaki UOZUMI HARRAULT
+
+Mémoire M2 OTG de l'Université de Strasbourg
